@@ -57,11 +57,6 @@ Follow these steps to run the project locally
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/Priyesh1311421/SocialCalc.git
-   cd SocialCalc
-   ```
-
 2. **Install dependencies for both frontend and backend:**
 
    ```bash
